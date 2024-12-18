@@ -1,7 +1,7 @@
 Hi there! I'm Maria Misa, a passionate junior web developer with a love for creating responsive, dynamic websites and applications. I specialize in  both front-end development and back-end development, and I'm constantly exploring and learning new technologies and frameworks to expand my skills.
 
 🔧 Technologies & Tools:
-HTML5, CSS3, JavaScript, Angular
+HTML5, CSS3, JavaScript, Angular 
 MySQL, PHP, Symfony, Java
 Git, GitHub, Version Control
 Responsive Web Design,
